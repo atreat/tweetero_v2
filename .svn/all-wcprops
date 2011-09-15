@@ -1,0 +1,125 @@
+K 25
+svn:wc:ra_dav:version-url
+V 22
+/svn/!svn/ver/70/trunk
+END
+main.m
+K 25
+svn:wc:ra_dav:version-url
+V 29
+/svn/!svn/ver/10/trunk/main.m
+END
+HomeViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/10/trunk/HomeViewController.m
+END
+Frog.tiff
+K 25
+svn:wc:ra_dav:version-url
+V 31
+/svn/!svn/ver/4/trunk/Frog.tiff
+END
+Info.plist
+K 25
+svn:wc:ra_dav:version-url
+V 33
+/svn/!svn/ver/66/trunk/Info.plist
+END
+TwitEditorController.h
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/45/trunk/TwitEditorController.h
+END
+LocationManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/10/trunk/LocationManager.h
+END
+Tweetter_Prefix.pch
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/10/trunk/Tweetter_Prefix.pch
+END
+TwitterConnectionProtocol.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/18/trunk/TwitterConnectionProtocol.h
+END
+SettingsController.h
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/4/trunk/SettingsController.h
+END
+TwitEditorController.m
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/65/trunk/TwitEditorController.m
+END
+LocationManager.m
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/10/trunk/LocationManager.m
+END
+SettingsController.m
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/10/trunk/SettingsController.m
+END
+LICENSE.txt
+K 25
+svn:wc:ra_dav:version-url
+V 33
+/svn/!svn/ver/4/trunk/LICENSE.txt
+END
+defaults.plist
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/4/trunk/defaults.plist
+END
+LoginController.h
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/4/trunk/LoginController.h
+END
+util.h
+K 25
+svn:wc:ra_dav:version-url
+V 29
+/svn/!svn/ver/70/trunk/util.h
+END
+LoginController.m
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/10/trunk/LoginController.m
+END
+util.m
+K 25
+svn:wc:ra_dav:version-url
+V 29
+/svn/!svn/ver/70/trunk/util.m
+END
+yfrog.png
+K 25
+svn:wc:ra_dav:version-url
+V 31
+/svn/!svn/ver/4/trunk/yfrog.png
+END
+HomeViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/4/trunk/HomeViewController.h
+END

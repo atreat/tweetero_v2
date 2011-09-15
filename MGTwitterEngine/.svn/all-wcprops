@@ -1,0 +1,155 @@
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/66/trunk/MGTwitterEngine
+END
+MGTwitterHTTPURLConnection.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/4/trunk/MGTwitterEngine/MGTwitterHTTPURLConnection.h
+END
+MGTwitterXMLParser.m
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/4/trunk/MGTwitterEngine/MGTwitterXMLParser.m
+END
+NSData+Base64.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/4/trunk/MGTwitterEngine/NSData+Base64.h
+END
+MGTwitterUsersParser.m
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/4/trunk/MGTwitterEngine/MGTwitterUsersParser.m
+END
+MGTwitterMessagesParser.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/4/trunk/MGTwitterEngine/MGTwitterMessagesParser.h
+END
+MGTwitterParserDelegate.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/4/trunk/MGTwitterEngine/MGTwitterParserDelegate.h
+END
+MGTwitterHTTPURLConnection.m
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/4/trunk/MGTwitterEngine/MGTwitterHTTPURLConnection.m
+END
+NSData+Base64.m
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/4/trunk/MGTwitterEngine/NSData+Base64.m
+END
+MGTwitterStatusesParser.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/4/trunk/MGTwitterEngine/MGTwitterStatusesParser.h
+END
+MGTwitterMessagesParser.m
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/4/trunk/MGTwitterEngine/MGTwitterMessagesParser.m
+END
+MGTwitterStatusesParser.m
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/4/trunk/MGTwitterEngine/MGTwitterStatusesParser.m
+END
+MGTwitterEngineGlobalHeader.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/4/trunk/MGTwitterEngine/MGTwitterEngineGlobalHeader.h
+END
+MGTwitterEngineDelegate.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/4/trunk/MGTwitterEngine/MGTwitterEngineDelegate.h
+END
+NSString+UUID.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/4/trunk/MGTwitterEngine/NSString+UUID.h
+END
+LICENSE.txt
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/4/trunk/MGTwitterEngine/LICENSE.txt
+END
+MGTwitterEngine.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/23/trunk/MGTwitterEngine/MGTwitterEngine.h
+END
+NSString+UUID.m
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/4/trunk/MGTwitterEngine/NSString+UUID.m
+END
+MGTwitterMiscParser.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/4/trunk/MGTwitterEngine/MGTwitterMiscParser.h
+END
+FollowersController.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/4/trunk/MGTwitterEngine/FollowersController.h
+END
+MGTwitterEngine.m
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/66/trunk/MGTwitterEngine/MGTwitterEngine.m
+END
+MGTwitterMiscParser.m
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/4/trunk/MGTwitterEngine/MGTwitterMiscParser.m
+END
+MGTwitterXMLParser.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/4/trunk/MGTwitterEngine/MGTwitterXMLParser.h
+END
+MGTwitterRequestTypes.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/4/trunk/MGTwitterEngine/MGTwitterRequestTypes.h
+END
+MGTwitterUsersParser.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/4/trunk/MGTwitterEngine/MGTwitterUsersParser.h
+END
+FollowersController.m
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/57/trunk/MGTwitterEngine/FollowersController.m
+END
